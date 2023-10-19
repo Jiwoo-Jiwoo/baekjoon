@@ -10,4 +10,6 @@
 01919번 애너그램 만들기: https://www.acmicpc.net/problem/1919  
 ***  
 ### 연결 리스트
-
+01406번 에디터: https://www.acmicpc.net/problem/1406  
+05397번 키로거: https://www.acmicpc.net/problem/5397  
+01158번 요세푸스 문제: https://www.acmicpc.net/problem/1158  
