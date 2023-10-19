@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Main">
+      <UniqueIdentifier>{dd102a70-3c60-4d04-a70f-06ab29a694da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\baekjoon\10808번 알파벳 개수.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="02577번 숫자의 개수.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="01475번 방 번호.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="10807번 개수 세기.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="13300번 방 배정.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="11328번 Strfry.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="01919번 애너그램 만들기.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
