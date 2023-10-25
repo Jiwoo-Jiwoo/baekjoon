@@ -14,7 +14,7 @@ _1406번 에디터: https://www.acmicpc.net/problem/1406
 _5397번 키로거: https://www.acmicpc.net/problem/5397  
 _1158번 요세푸스 문제: https://www.acmicpc.net/problem/1158  
 ***  
-### 스
+### 스택
 10828번 스택: https://www.acmicpc.net/problem/10828  
 10773번 제로: https://www.acmicpc.net/problem/10773  
 _1874번 스택 수열: https://www.acmicpc.net/problem/1874  
