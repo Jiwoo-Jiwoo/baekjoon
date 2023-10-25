@@ -9,5 +9,8 @@
     <ClCompile Include="10828번 스택.cpp">
       <Filter>Main</Filter>
     </ClCompile>
+    <ClCompile Include="10773번 제로.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
